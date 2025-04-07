@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:CANCEL
+BEGIN:VEVENT
+DTSTART:20250310T133000Z
+DTSTAMP:20250310T130913Z
+ORGANIZER;CN=Career Development Head:mailto:hr.admin@thesmartmba.com
+UID:2g24tg2k6ij34589am5d77egsu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=mathur
+ thiswathi9@gmail.com;X-NUM-GUESTS=0:mailto:mathurthiswathi9@gmail.com
+CREATED:20250308T083607Z
+DESCRIPTION:<strong>Dear Candidate\,</strong><br><br><b>Kindly check your E
+ mail Inbox and fill up the Employment Form.</b><br><b><br></b><br><b>Deadli
+ ne: 11-03-2025 (</b><b>10 am)</b><b><br></b><br><b>Thanks and regards\,</b>
+ <br><b>Siddharth Nair</b><br><b>The Smart MBA Academy</b><br><b><a href="ht
+ tp://www.thesmartmba.com" target="_blank"><u>www.thesmartmba.com</u></a></b
+ >
+LAST-MODIFIED:20250310T130913Z
+LOCATION:
+SEQUENCE:2
+STATUS:CANCELLED
+SUMMARY:Reminder (Fill Out) - Employment Form
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
